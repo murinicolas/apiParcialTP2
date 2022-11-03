@@ -1,0 +1,43 @@
+h2 {
+    color: #a52a2a;
+    font-style: italic;
+}
+
+body{
+    background-color: #bd213040;
+}
+
+.jumbotron {
+    background-color: #bd213057;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#promedio{
+    border-radius: 25px;
+    border-color: transparent;
+    font-style: oblique;
+    color: #6e0b16;
+    background-color: #bd213057;
+}
+#cantidad{
+    border-radius: 25px;
+    border-color: transparent;
+    font-style: oblique;
+    color: #6e0b16;
+    background-color: #bd213057;
+}
+#minmax{
+    border-radius: 25px;
+    border-color: transparent;
+    font-style: oblique;
+    color: #6e0b16;
+    background-color: #bd213057;
+}
+#nros{
+    border-radius: 25px;
+    border-color: transparent;
+    font-style: oblique;
+    color: #6e0b16;
+    background-color: #bd213057;
+}
